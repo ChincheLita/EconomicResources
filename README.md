@@ -1,7 +1,6 @@
 # 📋 ECONOMIC RESOURCE <!-- omit in toc -->
 Hola ahí!👋🏼 En internet hay bastante información desperdigada. Por eso aquí encontrarás recursos útiles para encaminarse en la investigación economía.
 
-
 ## Tabla de contenido <!-- omit in toc -->
 
 - [Noticias Económicas](#noticias-económicas)
